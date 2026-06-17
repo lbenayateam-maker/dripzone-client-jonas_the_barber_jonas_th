@@ -1,0 +1,4 @@
+Dripzone Pro Template v2
+Folder: C:\Users\Administrator\Documents\Saas service website\build\Release\websites\jonas_the_barber_jonas_th.__building
+Company: Jonas The Barber
+Template: moroccan-brochettes-el-jadida-neon
